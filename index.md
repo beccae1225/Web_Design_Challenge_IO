@@ -59,10 +59,10 @@
                         <h1 class="title">Plots</h1>
                     </div>
                     <div class="box">
-                       <a href="Viz_one.html"><img src="../Visualizations/Fig1.png" alt="City Latitude vs. Max Temperature" height="160" width="160"></a>
-                       <a href="Viz_Two.html"><img src="../Visualizations/Fig2.png" alt="City Latitude vs. Humidity" height="160" width="160"></a>
-                       <a href="Viz_Three.html"><img src="../Visualizations/Fig3.png" alt="City Latitude vs. Cloudiness" height="160" width="160"></a>
-                       <a href="Viz_Four.html"><img src="../Visualizations/Fig4.png" alt="City Latitude vs. Wind Speed" height="160" width="160"></a>
+                       <a href="Viz_one.html"><img src="./Visualizations/Fig1.png" alt="City Latitude vs. Max Temperature" height="160" width="160"></a>
+                       <a href="Viz_Two.html"><img src="./Visualizations/Fig2.png" alt="City Latitude vs. Humidity" height="160" width="160"></a>
+                       <a href="Viz_Three.html"><img src="./Visualizations/Fig3.png" alt="City Latitude vs. Cloudiness" height="160" width="160"></a>
+                       <a href="Viz_Four.html"><img src="./Visualizations/Fig4.png" alt="City Latitude vs. Wind Speed" height="160" width="160"></a>
                     </div>
                 </div>
             </div>
